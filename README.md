@@ -1,10 +1,10 @@
 # New World Modular NWM-01 MIDI→CV Converter (hardware)
 
-The NWM-01 is an open hardware MIDI-to-CV converter for the Eurorack format, based on the Arduino platform. It's designed to be inexpensive and easy to clone, with a low component count and all components cheap to buy in multiples from your favourite supplier. It begun as an experiment around just how far a simple set of inexpensive components could be pushed.
+The NWM-01 is an open hardware MIDI-to-CV converter for the Eurorack format, based on the Arduino platform. It's designed to be inexpensive and easy to clone, with a low component count and all components cheap to buy in multiples from your favourite supplier. It began as an experiment around just how far a simple set of inexpensive components could be pushed.
 
 It's truly open source, with KiCad project files and source code for the firmware available under permissive licences. This repository's files are for the hardware only. For the firmware, see [the nwm-01-firmware repository](https://github.com/jimbovm/nwm-01-firmware).
 
-*⚠ The KiCad project for the motherboard has been removed while I redesign it around an Arduino Nano. The first design used a discrete ATMEGA328-P with the Arduino firmware, but I was dissatisfied with it.*
+**⚠ The KiCad project for the motherboard has been removed while I redesign it around an Arduino Nano. The first design used a discrete ATMEGA328-P with the Arduino firmware, but I was dissatisfied with it.**
 
 ## Bill of materials
 
